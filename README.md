@@ -17,3 +17,6 @@ And of course, all dependencies needed by AVP (EVE, Scatterer, ModuleManager).
 
 * [Engine Lighting Relit](https://forum.kerbalspaceprogram.com/index.php?/topic/182906-19x-engine-lighting-relit/&tab=comments#comment-3561125) - [GitHub](https://github.com/linuxgurugamer/EngineLightRelit/releases/latest)
 * [RealPlume - Stock](https://forum.kerbalspaceprogram.com/index.php?/topic/188033-ksp191-realplume-stock-v401-realplume-v1331-10may20/) - [GitHub](https://github.com/KSP-RO/RealPlume-StockConfigs/releases)
+* [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-112x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-jan-17/#comment-3838236) - [GitHub](https://github.com/post-kerbin-mining-corporation/Waterfall/releases/tag/0.8.1)
+with [Stock Waterfall Effects](https://forum.kerbalspaceprogram.com/index.php?/topic/200334-112x-stock-waterfall-effects-a-waterfall-config-set-for-realistic-rocket-exhaust-plumes-for-the-stock-engines/) - [GitHub](https://github.com/KnightofStJohn/StockWaterfallEffects/releases)
+* [Parallax](https://forum.kerbalspaceprogram.com/index.php?/topic/197024-112x-parallax-a-pbr-terrain-shader-130/) - [GitHub](https://github.com/Gameslinx/Tessellation/releases/tag/1.3.1)
