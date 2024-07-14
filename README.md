@@ -9,7 +9,7 @@ This is my little settings for KSP visual. Based on **Astronomer's Visual Pack -
 And of course, all dependencies needed by AVP (EVE, Scatterer, ModuleManager).
 * [DiRT - Drop-in Replacement Textures](https://forum.kerbalspaceprogram.com/index.php?/topic/172055-18x-17x-13x-drop-in-replacement-textures-v1720/) - [GitHub](https://github.com/cydonian-monk/KSP-DiRT/releases)
 * [PlanetShine](https://forum.kerbalspaceprogram.com/index.php?/topic/189071-110x-planetshine-0263/) - [GitHub](https://github.com/prestja/ksp-planetshine/releases/)
-* [Distant Object](https://forum.kerbalspaceprogram.com/index.php?/topic/189759-190-distant-object-enhancement-continued-v2002-14-february-2020/&tab=comments#comment-3704294) - [GitHub](https://github.com/TheDarkBadger/DistantObject/releases)
+* [Distant Object](https://forum.kerbalspaceprogram.com/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-21116-2024-0428/) - [GitHub](https://github.com/net-lisias-ksp/DistantObject/releases)
 * [TUFX](https://forum.kerbalspaceprogram.com/index.php?/topic/192212-19x-tufx-post-processing/) - [GitHub](https://github.com/shadowmage45/TUFX/releases)
 
 
